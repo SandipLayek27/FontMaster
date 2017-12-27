@@ -3,7 +3,32 @@ package com.fontmaster.app.masterfontlibrary;
  * Created by Android on 12/22/2017.
  */
 public class del {
-/*KrankyRegular.ttf
+/*
+AclonicaRegular.ttf
+ArimoBold.ttf
+ArimoBoldItalic.ttf
+ArimoItalic.ttf
+ArimoRegular.ttf
+CalligraffittiRegular.ttf
+CherryCreamSodaRegular.ttf
+ChewyRegular.ttf
+ComingSoonRegular.ttf
+CousineBold.ttf
+CousineBoldItalic.ttf
+CousineItalic.ttf
+CousineRegular.ttf
+CraftyGirlsRegular.ttf
+CrushedRegular.ttf
+FontdinerSwankyRegular.ttf
+HomemadeAppleRegular.ttf
+IrishGroverRegular.ttf
+JsMathCmbx.ttf
+JsMathCmex.ttf
+JsMathCmmi.ttf
+JsMathCmsy.ttf
+JsMathCmti.ttf
+JustAnotherHandRegular.ttf
+KrankyRegular.ttf
 LuckiestGuyRegular.ttf
 MaidenOrangeRegular.ttf
 MontezRegular.ttf
@@ -30,7 +55,6 @@ OpenSansHebrewCondensedLight.ttf
 OpenSansHebrewCondensedLightItalic.ttf
 OpenSansHebrewCondensedRegular.ttf
 OpenSansHebrewExtraBold.ttf
-
 OpenSansHebrewExtraBoldItalic.ttf
 OpenSansHebrewItalic.ttf
 OpenSansHebrewLight.ttf
@@ -76,7 +100,6 @@ RobotoSlabRegular.ttf
 RobotoSlabThin.ttf
 RobotoThin.ttf
 RobotoThinItalic.ttf
-
 RochesterRegular.ttf
 RockSaltRegular.ttf
 SatisfyRegular.ttf
@@ -95,5 +118,6 @@ UltraRegular.ttf
 UnkemptBold.ttf
 UnkemptRegular.ttf
 WalterTurncoatRegular.ttf
-YellowtailRegular.ttf*/
+YellowtailRegular.ttf
+*/
 }
