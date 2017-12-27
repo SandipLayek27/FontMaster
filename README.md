@@ -1,8 +1,9 @@
 # FontMaster
+```sh
 It's a Font Library, which provide 115 fonts....
 User can change TextView and EditText font style using this fonts.
 Uses of this font library is too simple
-
+```
 ## Developed
 [![Sandip](https://avatars1.githubusercontent.com/u/31722942?v=4&u=18643bfaaba26114584d27693e9891db26bcb582&s=39) Sandip](https://github.com/SandipLayek27)  
 
