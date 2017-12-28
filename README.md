@@ -149,11 +149,19 @@ UnkemptBold.ttf
 UnkemptRegular.ttf
 WalterTurncoatRegular.ttf
 YellowtailRegular.ttf
+SolaimanLipiBengali.ttf
+SolaimanLipi_bengali.ttf
+SolaimanLipi_Bold_Bengali.ttf
 ```
 # ★ Uses of this features.
 ```sh
 Uses just call TextView or EditText with fontStyleName.
-No Java Command Required
+No Java Command Required.
+
+[ Added To ]:-
+steings.xml
+<string name="text_of_title">ঘূর্ণিঝড়</string>
+-------------------------------------------------------------------------------------
 ❆ activity_main.xml PAGE:-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -203,6 +211,13 @@ No Java Command Required
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
+        android:layout_marginBottom="5dp"/>
+    <com.fontmaster.app.masterfontlibrary.textview.Custom_TextView_SolaimanLipiBengali
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_of_title"
         android:layout_marginBottom="5dp"/>
 </LinearLayout>
 ----------------------------------------------------------------------------------------------------------
