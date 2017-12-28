@@ -119,5 +119,9 @@ UnkemptBold.ttf
 UnkemptRegular.ttf
 WalterTurncoatRegular.ttf
 YellowtailRegular.ttf
+
+SolaimanLipiBengali.ttf
+SolaimanLipi_bengali.ttf
+SolaimanLipi_Bold_Bengali.ttf
 */
 }
