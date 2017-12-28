@@ -29,7 +29,7 @@ AND
 
 ```sh
 dependencies {
-    compile 'com.github.SandipLayek27:FontMaster:1.0'
+    compile 'com.github.SandipLayek27:FontMaster:1.1'
 }
 ```
 # ★ Font Name.
