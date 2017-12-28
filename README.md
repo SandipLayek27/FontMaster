@@ -1,6 +1,6 @@
 # FontMaster
 ```sh
-It's a Font Library, which provide 115 fonts....
+It's a Font Library, which provide 118 fonts....
 User can change TextView and EditText font style using this fonts.
 Uses of this font library is too simple
 ```
