@@ -60,6 +60,16 @@ JsMathCmti.ttf
 JustAnotherHandRegular.ttf
 KrankyRegular.ttf
 LuckiestGuyRegular.ttf
+lato_black.ttf
+lato_black_italic.ttf
+lato_bold.ttf
+lato_bold_ltalic.ttf
+lato_italic.ttf
+lato_light.ttf
+lato_light_italic.ttf
+lato_regular.ttf
+lato_thin.ttf
+lato_thin_italic.ttf
 MaidenOrangeRegular.ttf
 MontezRegular.ttf
 MountainsofChristmasBold.ttf
